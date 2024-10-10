@@ -1,29 +1,29 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "关于我"
+    url: "/#关于我"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "新闻"
+    url: "/#-新闻"
 
-  - title: "High-level Paper List"
-    url: "/#-high-level-paper-list"
+  - title: "高水平论文列表"
+    url: "/#-高水平论文列表"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "论文"
+    url: "/#-论文"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "荣誉与奖项"
+    url: "/#-荣誉与奖项"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "教育"
+    url: "/#-教育"
 
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "实习"
+    url: "/#-实习"
 
-  - title: "Services"
-    url: "/#-services"
+  - title: "服务"
+    url: "/#-服务"
 
-  - title: "Hobby"
-    url: "/#-hobby"
+  - title: "爱好"
+    url: "/#-爱好"

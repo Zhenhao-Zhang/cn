@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhenhao Zhang"
-description              : "VDI,SIST,ShanghaiTech University"
+title                    : "章震豪"
+description              : "上海科技大学"
 repository               : "Zhenhao-Zhang/Zhenhao-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenhao Zhang 章震豪"
+  name             : "章震豪"
   avatar           : "images/me.png"
-  bio              : "Master Student"
-  location         : "Shanghai, China"
+  bio              : "硕士研究生"
+  location         : "浦东新区，上海"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=dV36HmYAAAAJ"
