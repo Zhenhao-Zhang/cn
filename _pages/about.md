@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我是上海科技大学信息学院，VDI中心的一名硕士生，师从人工智能应用领域专家[石野](https://shiye21.github.io)教授，我在中国石油大学获得学士学位，师从高维变量统计学领域专家[宋允全](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm)教授
+我是上海科技大学信息科学与技术学院，人机协同与智能感知教育部重点实验室，VDI中心的一名硕士研究生，师从人工智能&优化应用领域专家[石野](https://shiye21.github.io)教授，我在中国石油大学获得学士学位，师从高维变量统计学领域专家[宋允全](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm)教授
 
 我目前从事具身智能，计算机视觉，强化学习方面的研究。我希望发表高水平论文列表的A/B类论文，或是担任程序委员会成员。如果你有任何问题请随时联系我。
 
@@ -72,9 +72,10 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 # 💼 服务
 * 会议审稿人
-  * **NeurIPS(CCF A)**:2024
-  * **ICLR(CAAI A)**:2025
-  * **AISTATS(CAAI B)**:2025
+  * Neural Information Processing Systems,**NeurIPS(CCF A)**:2024
+  * International Conference on Learning Representations,**ICLR(CAAI A)**:2025
+  * Artificial Intelligence and Statistics,**AISTATS(CAAI B)**:2025
+
 
 # ⭐ 爱好
 * **歌曲**
