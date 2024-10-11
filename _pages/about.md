@@ -74,7 +74,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 * 会议审稿人
   * Neural Information Processing Systems,**NeurIPS(CCF A)**:2024
   * International Conference on Learning Representations,**ICLR(CAAI A)**:2025
-  * Artificial Intelligence and Statistics,**AISTATS(CAAI B)**:2025
+  * International Conference on Artificial Intelligence and Statistics,**AISTATS(CAAI B)**:2025
 
 
 # ⭐ 爱好
